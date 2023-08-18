@@ -11,9 +11,18 @@ Collaborative team player with a commitment to continuous learning and improveme
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I love pets.
 
-## Projects where I worked in:
-- Interbank :https://bancaporinternet.interbank.pe/login#/login
+## Projects where I worked on:
+- Interbank for people :https://bancaporinternet.interbank.pe/login#/login
 - Interbank for Business: https://empresas.interbank.pe/login
+
+## Personal projects:
+- LMS: [Free2Learn.ca](https://free2learn.ca/)
+- Ecommerce: [https://speyx.com/](https://speyx.com/)
+- Ecommerce: [https://kirastore-fjvfgrc48.vercel.app/](https://kirastore-fjvfgrc48.vercel.app/)
+
+## Volunteer projects:
+- Ihelp International Community Center: https://ihelp.international/
+- https://wasairahimi.ca/
 
 
 <!--
