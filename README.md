@@ -5,11 +5,11 @@ Proficient in modern web technologies and dedicated to designing user-centric in
 Collaborative team player with a commitment to continuous learning and improvement.
 
 
-🌱 I’m currently learning Web Development
-👯 I’m looking to collaborate on Technological Projects
-📫 How to reach me: mirian.qsarmiento15@gmail.com 
-😄 Pronouns: She/Her
-⚡ Fun fact: I love pets.
+- 🌱 I’m currently learning Web Development
+- 👯 I’m looking to collaborate on Technological Projects
+- 📫 How to reach me: mirian.qsarmiento15@gmail.com 
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: I love pets.
 
 <!--
 **KiraLei/KiraLei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
