@@ -11,6 +11,11 @@ Collaborative team player with a commitment to continuous learning and improveme
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I love pets.
 
+## Projects where I worked in:
+- Interbank :https://bancaporinternet.interbank.pe/login#/login
+- Interbank for Business: https://empresas.interbank.pe/login
+
+
 <!--
 **KiraLei/KiraLei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
